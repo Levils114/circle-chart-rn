@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "donut-chart",
+    "slug": "donut-chart",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "donut-chart"
+}
